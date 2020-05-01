@@ -5,3 +5,5 @@ absent=0
 observation=$((RANDOM%2))
 perHourSalary=20
 fullTimeHours=8
+partTiemHours=4
+
