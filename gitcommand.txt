@@ -1,0 +1,71 @@
+  430  git status
+  434  git status
+  439  git status
+  442  git add
+  443  git add .
+  445  git status
+  446  git init
+  448  cat .gitignore
+  450  git lart
+  451  git -lart
+  452  git --help
+  453  git status
+  454  git add .
+  455  git status
+  458  git status
+  462  git checkout -b nitesh
+  463  git branch
+  464  git checkout master 
+  465  git branch
+  466  git status
+  468  git add .
+  469  git status
+  470  git commit -m " first java code "
+  471  git push -u origin master
+  473  git pull 
+  475  git checkout nitesh
+  477  git merge master
+  480  git checkout master
+  481  git checkout nitesh
+  483  git add .
+  484  git commit -m " video and HD feature added "
+  485  git push
+  488  git pull 
+  493  git status
+  495  git status
+  496  git init
+  497  git status
+  498  git add .
+  499  git status
+  500  git commit -m "Welcome message to Employee Salary Program"
+  501  git push -u origin master
+  504  git add .
+  505  git status
+  506  git commit -m "Mechanism added to check employee attendace"
+  507  git push -u origin master
+  508  git checkout -b test
+  509  git merge master
+  512  git checkout master
+  514  git checkout test
+  515  git add .
+  516  git checkout master
+  518  git checkout test
+  520  git add .
+  521  git commit -m "per hour salary and fulltime working hours decided"
+  522  git checkout master
+  524  git checkout test
+  525  git push -u origin test
+  526  git checkout master
+  528  git pull 
+  530  git add .
+  531  git commit -m "added partTime employee working hrs"
+  532  git push -u origin test
+  534  git pull
+  537  git add .
+  538  git commit -m "case statement added"
+  539  git push -u origin master
+  545  history | grep get > "githistory.txt"
+  547  cat githistory.txt 
+  549  history | grep git
+  550  history | grep git <
+  551  history | grep git > "gitcommand.txt"
